@@ -13,6 +13,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghostoftoyman&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ghostoftoyman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostoftoyman&show_icons=true&locale=en" alt="ghostoftoyman" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghostoftoyman&show_icons=true&locale=en&theme=onedark" alt="ghostoftoyman" /></p>
 
 
